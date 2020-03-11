@@ -16,8 +16,6 @@ import {
     screenSize,
 } from './theme';
 
-const MONGODB_WEBSITE = 'https://www.mongodb.com';
-
 const Day = styled('span')`
     display: block;
     font-size: ${fontSize.medium};
