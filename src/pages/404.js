@@ -14,7 +14,7 @@ export default () => (
     <Layout>
         <Container>
             <Logo height={70} />
-            <H1>Page not found. Super sorry about it.</H1>
+            <H1>Page not found. Super sorry about it. But that's life.</H1>
             <Link tertiary to="/">
                 Go to the homepage
             </Link>
